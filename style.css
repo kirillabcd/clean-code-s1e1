@@ -54,7 +54,7 @@ body {
 .new-task__input {
   display: inline-block;
   outline: none;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .todo-items-list {
@@ -107,7 +107,7 @@ color: #3a3a3a;
   font-family: Lato, sans-serif;
   color: #888;
 }
-.task__input:focus,
+.new-task__input:focus,
 .todo-item__input:focus {
   color: #333;
   outline: none;
